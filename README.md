@@ -1,3 +1,3 @@
 # Association-Football-Statisctic
 
-This dashboard aims to analyze Association Football statistics. This dashboard only includes football matches from international matches from 02/07/1916 until  18/12/2022. The information includes team, goalscorer, match listing, venue, and tournament. Examining this data is intended to obtain insight into the best-performing team, and players in the international football match during a period of time.
+This dashboard provides an in-depth analysis of international association football matches from 02/07/1916 to 18/12/2022. It includes information on teams, goalscorers, match listings, venues, and tournaments. By exploring this data, you can gain valuable insights into the best-performing teams and players in international football during this time period. Whether you're a fan, researcher, or analyst, this dashboard offers a comprehensive view of the sport that can help inform decision-making and spark new ideas.
